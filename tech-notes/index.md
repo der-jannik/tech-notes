@@ -1,6 +1,12 @@
-[[python]]
+[[software-development]]
 
-[[linux-low-level]]
+[[operating-systems]]
 
-[python]: python.md "Python"
-[linux-low-level]: linux-low-level.md "Linux"
+
+
+
+
+[software-development]: software-development.md "Software development"
+
+
+[operating-systems]: operating-systems.md "Computer architecture and operating systems"
