@@ -1,13 +1,16 @@
+
 Just a bunch of personal notes on tech-stuff
 ---
 
-[[index]]
+
 
 [[tech-notes/index]]
 
 [[inbox]]
 
 [[ideas]]
+
+[[index]]
 
 
 [inbox]: inbox.md "Inbox"
