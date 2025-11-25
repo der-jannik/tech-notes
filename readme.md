@@ -10,7 +10,7 @@ Just a bunch of personal notes on tech-stuff
 
 [[ideas]]
 
-[[index]]
+[[docs/index]]
 
 
 [inbox]: inbox.md "Inbox"
@@ -20,7 +20,10 @@ Just a bunch of personal notes on tech-stuff
 [ideas]: ideas.md "Ideas for notes"
 
 
-[index]: docs/index.md "Using Foam"
+
 
 
 [tech-notes/index]: tech-notes/index.md "index"
+
+
+[docs/index]: docs/index.md "Using Foam"
