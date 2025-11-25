@@ -47,3 +47,5 @@ There are many other templates which also support publish your foam workspace to
 
 [[ideas]] [[good-first-task]] Improve this documentation
 
+
+[ideas]: ../../ideas.md "Ideas for notes"
