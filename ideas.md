@@ -1,0 +1,8 @@
+# Ideas for notes
+
+
+
+
+
+
+

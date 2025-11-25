@@ -2,7 +2,7 @@
 
 This #recipe contains tips on how to leverage VS Code search features.
 
-[[todo]] Add more VS Code search power user tips here
+[[ideas]] Add more VS Code search power user tips here
 
 Run `Cmd` + `P` ( `Ctrl` +  `P` on Windows ) and type a name (like 'issues') to find a note associated with that name (like 'known-issues.md' )
 

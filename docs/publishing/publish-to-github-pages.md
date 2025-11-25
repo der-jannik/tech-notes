@@ -45,5 +45,5 @@ There are many other templates which also support publish your foam workspace to
   * [repo](https://github.com/hikerpig/foam-jekyll-template)
   * [demo-website](https://hikerpig.github.io/foam-jekyll-template/)
 
-[[todo]] [[good-first-task]] Improve this documentation
+[[ideas]] [[good-first-task]] Improve this documentation
 

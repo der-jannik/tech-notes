@@ -24,7 +24,7 @@ A #recipe is a guide, tip or strategy for getting the most out of your Foam work
 
 ## Take smart notes
 
-- Introduction to Zettelkasten [[todo]]
+- Introduction to Zettelkasten [[ideas]]
 - Clip webpages with [[web-clipper]]
 - Convert Microsoft Word files into Markdown with [[markup-converter]]
 
@@ -51,12 +51,12 @@ A #recipe is a guide, tip or strategy for getting the most out of your Foam work
 - Style your environment with [[custom-markdown-preview-styles]]
 - Paste and link [[add-images-to-notes]]
 - [[shows-image-preview-on-hover]]
-- [Markdown All-in-One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) features [[todo]] [[good-first-task]]
+- [Markdown All-in-One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) features [[ideas]] [[good-first-task]]
   - Manage checklists
   - Automatic Table of Contents
   - Live preview markdown
   - _More..._
-- VS Code Advanced Features [[todo]] [[good-first-task]]
+- VS Code Advanced Features [[ideas]] [[good-first-task]]
   - Focus with Zen Mode
 - Display content of other notes in the preview tab by [[embeds]]
 
@@ -87,7 +87,7 @@ A #recipe is a guide, tip or strategy for getting the most out of your Foam work
 
 - Give your team push access to your [GitHub repo](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository)
 - Real-time collaboration via VS Code Live Share [[real-time-collaboration]]
-- Accept patches via GitHub PRs [[todo]]
+- Accept patches via GitHub PRs [[ideas]]
 
 ## Workflow
 
@@ -98,7 +98,7 @@ A #recipe is a guide, tip or strategy for getting the most out of your Foam work
 
 Creative ideas welcome!
 
-- Support [Anki](https://apps.ankiweb.net/) cards from notes like [Remnote](https://www.remnote.io/) [[todo]]
+- Support [Anki](https://apps.ankiweb.net/) cards from notes like [Remnote](https://www.remnote.io/) [[ideas]]
 
 _See [[contribution-guide]] and [[how-to-write-recipes]]._
 
