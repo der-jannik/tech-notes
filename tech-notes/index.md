@@ -4,6 +4,8 @@
 
 [[operating-systems]]
 
+[[artificial-intelligence]]
+
 
 
 
@@ -12,3 +14,6 @@
 
 
 [operating-systems]: operating-systems.md "Computer architecture and operating systems"
+
+
+[artificial-intelligence]: artificial-intelligence.md "Artificial Intelligence"
