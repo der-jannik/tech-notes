@@ -27,3 +27,5 @@
 
 [Model Context Protocol (MCP)]: <Model Context Protocol (MCP).md> "Model Context Protocol (MCP)"
 [GitHub Copilot]: <GitHub Copilot.md> "GitHub Copilot"
+
+[AI Agents]: <AI Agents.md> "AI Agents"
