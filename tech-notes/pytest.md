@@ -82,7 +82,7 @@ def test_some_test(some_fixture):
 - So that all values defined in the decorator get passed as argument to the test method
 
 ```python
-@pytest.mark.parameterize("param1", "param2", [
+@pytest.mark.parametrize("param1", "param2", [
     (<param1 possibility 1>, <param2 possibility 1>),
     (<param1 possibility 2>, <param2 possibility 2>),
     ...
